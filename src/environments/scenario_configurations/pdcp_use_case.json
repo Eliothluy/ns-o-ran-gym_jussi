@@ -1,0 +1,20 @@
+{
+  "heuristicType": [-1],
+  "simTime": [10],
+  "ues": [10],
+  "PercUEeMBB": [0.333],
+  "PercUEURLLC": [0.333],
+  "RngRun": [555],
+  "configuration": [0],
+  "trafficModel": [3],
+  "numberOfRaPreambles": [40],
+  "reducedPmValues": [0],
+  "outageThreshold": [-5.0],
+  "handoverMode": ["DynamicTtt"],
+  "indicationPeriodicity": [0.100],
+  "controlFileName": ["qos_actions_for_ns3.csv"],
+  "useSemaphores": [1],
+  "qoSeMBB": [-1],
+  "qoSURLLC": [-1],
+  "qoSmIoT": [-1]
+}

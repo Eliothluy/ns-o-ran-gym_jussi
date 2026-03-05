@@ -14,5 +14,12 @@ register(
 )
 
 
+register(
+     id="PdcpSlicingEnv",
+     entry_point="environments.pdcp_env:PdcpSlicingEnv",
+     # max_episode_steps=100,
+)
+
+
 # test episode of 1 step each
 # episodes = 1e6
